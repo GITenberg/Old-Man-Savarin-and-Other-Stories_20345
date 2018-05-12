@@ -1,0 +1,31 @@
+_repo: Old-Man-Savarin-and-Other-Stories_20345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, Edward William
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '9239'
+    url: http://www.gutenberg.org/2009/agents/9239
+    wikipedia: http://en.wikipedia.org/wiki/Edward_William_Thomson_%28writer%29
+description: ''
+gutenberg_issued: '2007-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: Old man Savarin -- The privilege of the limits -- McGrath's bad night
+  -- Great Godfrey's lament -- The red-headed Windego -- The shining cross of Rigaud
+  -- Little Baptiste -- The ride by night -- Drafted -- A turkey apiece -- Grandpapa's
+  wolf story -- The Waterloo veteran -- John Bedell -- Verbitzsky's stratagem.
+title: Old Man Savarin and Other Stories
+url: http://www.gutenberg.org/ebooks/20345
