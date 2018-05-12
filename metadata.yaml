@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9239
     wikipedia: http://en.wikipedia.org/wiki/Edward_William_Thomson_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20345#Old-Man-Savarin-and-Other-Stories
 gutenberg_issued: '2007-01-12'
 gutenberg_type: Text
 identifiers:
